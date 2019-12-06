@@ -5,7 +5,7 @@
     <homepage/>
     <privacypolicy/>
     <eula/>
-    <iconbaseurl>https://avalonbar.github.io/tiles-provider-longbar/icons/</iconbaseurl>
+    <iconbaseurl>https://avalonbar.github.io/tiles-provider-longbar/Icons/</iconbaseurl>
     <packagebaseurl>https://avalonbar.github.io/tiles-provider-longbar/</packagebaseurl>
   </provider>
   <tile id="0">
