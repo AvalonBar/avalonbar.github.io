@@ -5,8 +5,8 @@
     <homepage/>
     <privacypolicy/>
     <eula/>
-    <iconbaseurl>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/icons/</iconbaseurl>
-    <packagebaseurl>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/</packagebaseurl>
+    <iconbaseurl>https://avalonbar.github.io/tiles-provider-longbar/icons/</iconbaseurl>
+    <packagebaseurl>https://avalonbar.github.io/tiles-provider-longbar/</packagebaseurl>
   </provider>
   <tile id="0">
     <name>Accelerators</name>
