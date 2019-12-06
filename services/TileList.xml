@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<tilemanifest>
+  <provider>
+    <name>LongBar Tile Repository</name>
+    <homepage/>
+    <privacypolicy/>
+    <eula/>
+    <iconbaseurl>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/icons/</iconbaseurl>
+    <packagebaseurl>http://cid-820d4d5cef8566bf.skydrive.live.com/self.aspx/LongBar%20Project/Library%202.0/</packagebaseurl>
+  </provider>
+  <tile id="0">
+    <name>Accelerators</name>
+    <developer>Stealth</developer>
+    <version>1.0</version>
+    <description>Helps you quickly perform your everyday browsing tasks without navigating to other websites to get things done</description>
+    <icon>Accelerators.png</icon>
+    <link>Accelerators.tile</link>
+  </tile>
+  <tile id="1">
+    <name>AccuWeatherTile</name>
+    <developer>Anatoly Sereda</developer>
+    <version>0.2</version>
+    <description>Displays current weather condition and forecast for tomorrow with Accu Weather</description>
+    <icon>AccuWeatherTile.png</icon>
+    <link>AccuWeatherTile.tile</link>
+  </tile>
+  <tile id="2">
+    <name>AeroXP</name>
+    <developer>Stealth</developer>
+    <version>Beta 3</version>
+    <description>Shows the latest forum posts on http://aeroxp.org</description>
+    <link>AeroXP.tile</link>
+  </tile>
+  <tile id="3">
+    <name>Buddies</name>
+    <developer>Stealth</developer>
+    <version>1.0</version>
+    <description>Lists your contacts from Windows Live Messenger and their status</description>
+    <icon>Buddies.png</icon>
+    <link>Buddies.tile</link>
+  </tile>
+  <tile id="4">
+    <name>BuddyList</name>
+    <developer>Anatoly Sereda</developer>
+    <version>1.0</version>
+    <description>Lists your contacts from Windows Live Messenger and their status</description>
+    <icon>BuddyList.png</icon>
+    <link>BuddyList.tile</link>
+  </tile>
+  <tile id="5">
+    <name>Calc</name>
+    <developer>Stealth</developer>
+    <version>Beta 1</version>
+    <description>Allows you to perform simple calculations</description>
+    <icon>Calc.png</icon>
+    <link>Calc.tile</link>
+  </tile>
+  <tile id="6">
+    <name>Clock</name>
+    <developer>Stealth</developer>
+    <version>Release Candidate 1</version>
+    <description>Shows nice clock on your LongBar</description>
+    <icon>Clock.png</icon>
+    <link>Clock.tile</link>
+  </tile>
+  <tile id="7">
+    <name>CommunicationHistory</name>
+    <developer>Daniel Kornev</developer>
+    <version>1.0</version>
+    <description>Displays last 8 emails from your Outlook Inbox folder, shows number of unread emails in Inbox and enables you to open item by double-clicking on it</description>
+    <icon>CommunicationHistory.png</icon>
+    <link>CommunicationHistory.tile</link>
+  </tile>
+  <tile id="8">
+    <name>DigitalClock</name>
+    <developer>Stealth</developer>
+    <version>1.0</version>
+    <description>Shows nice digital clock on your LongBar</description>
+    <icon>Clock.png</icon>
+    <link>DigitalClock.tile</link>
+  </tile>
+  <tile id="9">
+    <name>DiskInfo</name>
+    <developer>Tony</developer>
+    <version>1.0</version>
+    <description>Shows a graphical representation of the free space for each of your partitions</description>
+    <link>DiskInfo.tile</link>
+  </tile>
+  <tile id="10">
+    <name>DriveList</name>
+    <developer>Stealth</developer>
+    <version>1.0</version>
+    <description>Shows a graphical representation of the free space for your hard and flash drives</description>
+    <link>DriveList.tile</link>
+  </tile>
+  <tile id="11">
+    <name>DriveMeter</name>
+    <developer>Stealth</developer>
+    <version>1.0</version>
+    <description>Shows free space on hard drives</description>
+    <icon>DriveMeter.png</icon>
+    <link>DriveMeter.tile</link>
+  </tile>
+  <tile id="12">
+    <name>Facebook</name>
+    <developer>Tony</developer>
+    <version>1.0</version>
+    <description>Displays your status, as well as any pokes, messages, or friend requests you might have</description>
+    <icon>Facebook.png</icon>
+    <link>Facebook.tile</link>
+  </tile>
+  <tile id="13">
+    <name>GisMeteo</name>
+    <developer>SiAVoL</developer>
+    <version>1.0</version>
+    <description>Shows the weather from http://www.gismeteo.ru</description>
+    <icon>GisMeteo.png</icon>
+    <link>GisMeteo.tile</link>
+  </tile>
+  <tile id="14">
+    <name>GoogleSearch</name>
+    <developer>Stealth</developer>
+    <version>1.0</version>
+    <description>Provides quick access to google search</description>
+    <icon>GoogleSearch.png</icon>
+    <link>GoogleSearch.tile</link>
+  </tile>
+  <tile id="15">
+    <name>links</name>
+    <developer>Stealth</developer>
+    <version>1.1</version>
+    <description>Allows you to add shortcuts to the most recently used programs and files</description>
+    <link>links.tile</link>
+  </tile>
+  <tile id="16">
+    <name>LockStatus</name>
+    <developer>Stealth</developer>
+    <version>Beta 1</version>
+    <description>Show you the Caps Lock, Num Lock and Scroll Lock indicators</description>
+    <link>LockStatus.tile</link>
+  </tile>
+  <tile id="17">
+    <name>Multidesktop</name>
+    <developer>Tierro</developer>
+    <version>1.0</version>
+    <description>Allows you to switch between different desktops</description>
+    <link>Multidesktop.tile</link>
+  </tile>
+  <tile id="18">
+    <name>NetMonitor</name>
+    <developer>Stealth</developer>
+    <version>2.0</version>
+    <description>Shows your network statistics</description>
+    <icon>NetMonitor.png</icon>
+    <link>NetMonitor.tile</link>
+  </tile>
+  <tile id="19">
+    <name>Notes</name>
+    <developer>Stealth</developer>
+    <version>1.0</version>
+    <description>Allows you to store some notes</description>
+    <icon>Notes.png</icon>
+    <link>Notes.tile</link>
+  </tile>
+  <tile id="20">
+    <name>OutlookCalendar</name>
+    <developer>Tony</developer>
+    <version>1.2</version>
+    <description>Shows the next 3 upcoming appointments from your Outlook Calendar</description>
+    <icon>OutlookCalendar.png</icon>
+    <link>OutlookCalendar.tile</link>
+  </tile>
+  <tile id="21">
+    <name>OutlookTasks</name>
+    <developer>Tony</developer>
+    <version>1.0</version>
+    <description>Shows a list of all incomplete tasks from your Outlook profile</description>
+    <icon>OutlookTasks.png</icon>
+    <link>OutlookTasks.tile</link>
+  </tile>
+  <tile id="22">
+    <name>PeopleNearMe</name>
+    <developer>Daniel Kornev</developer>
+    <version>0.7</version>
+    <description>Shows you number of people near you using "People Near Me" feature of Peer to Peer infrastructure of Windows Vista</description>
+    <icon>PeopleNearMe.png</icon>
+    <link>PeopleNearMe.tile</link>
+  </tile>
+  <tile id="23">
+    <name>PerformanceCounter</name>
+    <developer>Stealth</developer>
+    <version>Beta 1</version>
+    <description>Shows your CPU and memory usage statistics</description>
+    <link>PerformanceCounter.tile</link>
+  </tile>
+  <tile id="24">
+    <name>QuickLaunch</name>
+    <developer>Stealth</developer>
+    <version>Release Candidate 2</version>
+    <description>Allows you to add shortcuts to the most recently used programs and files</description>
+    <icon>QuickLaunch.png</icon>
+    <link>QuickLaunch.tile</link>
+  </tile>
+  <tile id="25">
+    <name>Search</name>
+    <developer>Karl Wagner</developer>
+    <version>1.0</version>
+    <description>Allows you to search something on your computer</description>
+    <icon>Search.png</icon>
+    <link>Search.tile</link>
+  </tile>
+  <tile id="26">
+    <name>ShortcutList</name>
+    <developer>Tierro</developer>
+    <version>1.0</version>
+    <description>Displaying a list of shortcuts to the files you drag'n'drop there</description>
+    <link>ShortcutList.tile</link>
+  </tile>
+  <tile id="27">
+    <name>SlideShow</name>
+    <developer>Stealth</developer>
+    <version>Release Candidate 2</version>
+    <description>Shows slides with pictures from selected folder</description>
+    <icon>SlideShow.png</icon>
+    <link>SlideShow.tile</link>
+  </tile>
+  <tile id="28">
+    <name>SlideShowTile</name>
+    <developer>Tony</developer>
+    <version>1.1</version>
+    <description>Displays a random picture from your Pictures folder every 10 seconds</description>
+    <icon>SlideShowTile.png</icon>
+    <link>SlideShowTile.tile</link>
+  </tile>
+  <tile id="29">
+    <name>StickyNotes</name>
+    <developer>Anatoly Sereda</developer>
+    <version>0.3 alpha</version>
+    <description>Add a sticky note to your desktop or sidebar</description>
+    <icon>StickyNotes.png</icon>
+    <link>StickyNotes.tile</link>
+  </tile>
+  <tile id="30">
+    <name>SysTray</name>
+    <developer>Karl Wagner</developer>
+    <version>1.0</version>
+    <description>A tile that displays the content of the system tray</description>
+    <link>SysTray.tile</link>
+  </tile>
+  <tile id="31">
+    <name>TheVista</name>
+    <developer>Stealth</developer>
+    <version>1.1</version>
+    <description>A tile that shows news from http://thevista.ru. Requires .NET Framework 3.0 SP1</description>
+    <icon>TheVista.png</icon>
+    <link>TheVista.tile</link>
+  </tile>
+  <tile id="32">
+    <name>Trash</name>
+    <developer>Daniel Steiner</developer>
+    <version>1.0</version>
+    <description>A tile that allowes you to drag files and folders on it to move them to your recycle bin. This tile works just as in Longhorn</description>
+    <icon>Trash.png</icon>
+    <link>Trash.tile</link>
+  </tile>
+  <tile id="33">
+    <name>Tray</name>
+    <developer>Stealth</developer>
+    <version>1.0</version>
+    <description>A tile that displays the content of the system tray. It doesn't hide tray from taskbar like previous System Tray tile</description>
+    <link>Tray.tile</link>
+  </tile>
+  <tile id="34">
+    <name>Twitter</name>
+    <developer>Stealth</developer>
+    <version>Beta 1</version>
+    <description>Shows updates from twitter</description>
+    <link>Twitter.tile</link>
+  </tile>
+  <tile id="35">
+    <name>User</name>
+    <developer>Stealth</developer>
+    <version>Beta 1</version>
+    <description>Shows user defined icon and allows quickly restart, shutdown, logout</description>
+    <icon>User.png</icon>
+    <link>User.tile</link>
+  </tile>
+  <tile id="36">
+    <name>UTorrent</name>
+    <developer>SiAVoL</developer>
+    <version>1.0</version>
+    <description>Shows downloads and uploads for bittorent client uTorrent</description>
+    <link>UTorrent.tile</link>
+  </tile>
+  <tile id="37">
+    <name>Volume</name>
+    <developer>Tony</developer>
+    <version>1.03a</version>
+    <description>Allows you to adjust the system volume and toggle muting</description>
+    <icon>Volume.png</icon>
+    <link>Volume.tile</link>
+  </tile>
+  <tile id="38">
+    <name>Weather</name>
+    <developer>Stealth</developer>
+    <version>Beta 1</version>
+    <description>Shows the weather forecast</description>
+    <icon>Weather.png</icon>
+    <link>Weather.tile</link>
+  </tile>
+  <tile id="39">
+    <name>Welcome</name>
+    <developer>Panda X</developer>
+    <version>1.0</version>
+    <description>Simple welcome tile that sports the PDC03 user picture animation</description>
+    <icon>Welcome.png</icon>
+    <link>Welcome.tile</link>
+  </tile>
+  <tile id="40">
+    <name>Wmp</name>
+    <developer>Anatoly Sereda</developer>
+    <version>Beta 1</version>
+    <description>Allows you to control your WMP from the sidebar</description>
+    <icon>Wmp.png</icon>
+    <link>Wmp.tile</link>
+  </tile>
+</tilemanifest>
