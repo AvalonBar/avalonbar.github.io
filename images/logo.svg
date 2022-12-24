@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="160" height="160" viewBox="0 0 160.00 160.00" enable-background="new 0 0 160.00 160.00" xml:space="preserve">
+	<ellipse fill="#DE4E04" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" cx="80" cy="80" rx="80" ry="80"/>
+	<linearGradient id="SVGID_Fill1_" gradientUnits="objectBoundingBox" x1="0.122352" y1="0.894819" x2="0.983516" y2="0.894819" gradientTransform="rotate(-44.999996 0.122352 0.894819)">
+		<stop offset="0" stop-color="#DCB867" stop-opacity="1"/>
+		<stop offset="1" stop-color="#F9DC83" stop-opacity="1"/>
+	</linearGradient>
+	<ellipse fill="url(#SVGID_Fill1_)" stroke-width="0.32" stroke-linejoin="round" cx="80" cy="80" rx="77.6" ry="77.6"/>
+	<path fill="#DE4E04" fill-opacity="1" fill-rule="evenodd" stroke-width="0.32" stroke-linejoin="round" d="M 80,4.79999C 121.532,4.79999 155.2,38.4682 155.2,80C 155.2,121.532 121.532,155.2 80,155.2C 38.4682,155.2 4.8,121.532 4.8,80C 4.8,38.4682 38.4682,4.79999 80,4.79999 Z M 80,9.59999C 118.881,9.59999 150.4,41.1192 150.4,80C 150.4,118.881 118.881,150.4 80,150.4C 41.1192,150.4 9.6,118.881 9.6,80C 9.6,41.1192 41.1192,9.59999 80,9.59999 Z "/>
+	<path fill="#F5E9BD" fill-opacity="1" stroke-width="0.32" stroke-linejoin="round" d="M 144,80L 95.5175,77.2639L 140.14,58.1107L 93.6459,72.1216L 129.027,38.8616L 90.1283,67.9295L 112,24.5744L 85.3892,65.1934L 91.1135,16.9723L 80,64.2431L 68.8865,16.9723L 74.6108,65.1934L 48,24.5744L 69.8716,67.9295L 30.9731,38.8616L 66.3541,72.1216L 19.8597,58.1107L 64.4824,77.2639L 16,80L 64.4824,82.7362L 19.8597,101.889L 66.3541,87.8785L 30.9731,121.138L 69.8716,92.0705L 48,135.426L 74.6108,94.8067L 68.8865,143.028L 80,95.757L 91.1135,143.028L 85.3892,94.8067L 112,135.426L 90.1283,92.0705L 129.027,121.138L 93.6459,87.8785L 140.14,101.889L 95.5175,82.7362L 144,80 Z "/>
+	<path fill="#DE4E04" fill-opacity="1" fill-rule="evenodd" stroke-width="0.32" stroke-linejoin="round" d="M 60.32,32L 99.6801,32C 102.508,32 104.8,34.2923 104.8,37.12L 104.8,122.88C 104.8,125.708 102.508,128 99.6801,128L 60.32,128C 57.4923,128 55.2,125.708 55.2,122.88L 55.2,37.12C 55.2,34.2923 57.4923,32 60.32,32 Z "/>
+	<linearGradient id="SVGID_Fill2_" gradientUnits="objectBoundingBox" x1="-1.28875e-007" y1="0.5" x2="1" y2="0.5">
+		<stop offset="0" stop-color="#FFFFFF" stop-opacity="0.498039"/>
+		<stop offset="1" stop-color="#FFFFFF" stop-opacity="0.25098"/>
+	</linearGradient>
+	<path fill="url(#SVGID_Fill2_)" fill-rule="evenodd" stroke-width="0.32" stroke-linejoin="round" d="M 60,32C 60.0735,32 60.1469,32.0003 60.2203,32.001L 60,32 Z M 84.8001,56.8L 84.8001,103.2C 84.8001,116.823 73.8151,127.881 60.2194,127.999C 57.4382,127.945 55.2,125.674 55.2,122.88L 55.2,37.12C 55.2,34.3256 57.4386,32.0541 60.2203,32.001C 73.8155,32.1192 84.8001,43.1768 84.8001,56.8 Z M 60.2194,127.999C 60.1464,128 60.0732,128 60,128L 60.2194,127.999 Z "/>
+</svg>
